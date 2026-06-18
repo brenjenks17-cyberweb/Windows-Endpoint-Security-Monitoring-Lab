@@ -1,7 +1,7 @@
 # Windows Endpoint & Authentication Monitoring (SOC Lab)
 
 ## Overview
-This project demonstrates hands-on SOC analyst skills by simulating authentication attacks and analyzing endpoint telemetry using Windows Security logs and Sysmon. The lab replicates real-world investigation workflows including detection, triage, and event correlation.
+This project demonstrates hands on SOC analyst skills by simulating authentication attacks and analyzing endpoint telemetry using Windows Security logs and Sysmon. The lab replicates real world investigation workflows including detection, triage, and event correlation. These same investigation techniques apply directly to help desk and Tier 1/2 support roles when triaging repeated account lockouts, suspicious login alerts, or escalating a potential security incident to the security team.
 
 ## Objectives
 - Generate security telemetry from endpoint and authentication activity  
